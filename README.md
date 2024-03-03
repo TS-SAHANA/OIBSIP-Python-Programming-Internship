@@ -46,6 +46,25 @@ The Random Password Generator is a utility to create strong and secure passwords
 2. Install required libraries: `tkinter`, `PIL`, `pyperclip`.
 3. Run the `PasswordGenerator.py` file.
 
+## Voice Assistant Project 🎙️
+The Voice Assistant Project is an interactive application designed to perform various tasks based on user voice commands. It seamlessly integrates speech recognition and text-to-speech conversion for a versatile and user-friendly experience. It is a Python-based application leveraging the Tkinter library for the graphical interface, SpeechRecognition for voice input processing, and pyttsx3 for generating spoken responses. The project encompasses several functionalities, making the assistant a helpful and engaging tool.
+
+**Features:**
+- Converts user voice input into text for effective communication.
+- Generates natural and audible responses for a more interactive experience.
+- Provides current time and date information upon request.
+- Opens Google Chrome and performs searches based on user input.
+- Sends emails with specified recipients, subjects, and bodies.
+- Fetches and presents current weather information for a user-specified city.
+- User-friendly graphical interface created with Tkinter for easy interaction.
+
+**How to Run:**
+1. Clone the repository to your local machine.
+2. Install required libraries using pip install -r requirements.txt.
+3. Run the voice_assistant.py script to launch the application.
+4. Click the "Start Assistant" button to activate the voice assistant.
+5. Interact with the assistant by speaking commands and receiving responses.
+
 Feel free to explore the source code, provide feedback, or even contribute to further enhancements. If you have any questions or suggestions, don't hesitate to reach out!
 
 **Happy coding!** 💻✨
